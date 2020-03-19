@@ -1,0 +1,2 @@
+rootProject.name='Tem'
+include ':app'

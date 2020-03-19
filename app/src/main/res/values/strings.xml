@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tem</string>
+    <string name="btn_label">Button</string>
+    <string name="appname">Hello</string>
+    <string name="hint_txt">Input your name</string>
+    <string name="score">0</string>
+    <string name="TeamName" />
+    <string name="Team_name">ballball老师多给点POINT</string>
+    <string name="lable_add1">+1 POINTS</string>
+    <string name="lable_add2">+2 POINTS</string>
+    <string name="lable_add3">+3 POINTS</string>
+    <string name="reset">reset</string>
+    <string name="Fullcredit">Full credit</string>
+</resources>
